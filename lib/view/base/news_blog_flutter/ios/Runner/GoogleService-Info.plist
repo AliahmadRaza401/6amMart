@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419760688278-lte21tkvivsjt6u7r2ft877kk8fsi9a1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419760688278-lte21tkvivsjt6u7r2ft877kk8fsi9a1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfzUtS2KlbQfj_v0rKojWbbdiN3KWq5oM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419760688278</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iqonic.newzflutter1</string>
+	<key>PROJECT_ID</key>
+	<string>news-and-blog-63e56</string>
+	<key>STORAGE_BUCKET</key>
+	<string>news-and-blog-63e56.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419760688278:ios:704622a2d6c047b30bc6b7</string>
+	<key>DATABASE_URL</key>
+	<string>https://news-and-blog-63e56.firebaseio.com</string>
+</dict>
+</plist>

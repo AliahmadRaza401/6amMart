@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990780922197",
+    "project_id": "newz-new-app",
+    "storage_bucket": "newz-new-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990780922197:android:ea1d1cfe84f16c709f77dc",
+        "android_client_info": {
+          "package_name": "com.my.news_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990780922197-rgp2365cpja9d4jk0aikhh0q1h8ugbio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.news_flutter",
+            "certificate_hash": "36534fb13c547bc6262269fd2d54d26d89bfb0b6"
+          }
+        },
+        {
+          "client_id": "990780922197-2o5a52cul6stn7jtvujjmjkc5ssgj2dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApFewkfMw2GhsrJSL8x_cwq2LEeaybN0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990780922197-2o5a52cul6stn7jtvujjmjkc5ssgj2dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
