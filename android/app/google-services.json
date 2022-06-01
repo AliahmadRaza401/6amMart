@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000163153346",
+    "project_id": "ammart-8885e",
+    "storage_bucket": "ammart-8885e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000163153346:android:7d49ab307cc6e18406b25b",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixam_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000163153346-48ckm2uf7h70hmgn74kg1gq02sval158.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCic6Mw3RRPFcimXhwGidwhCN0tXY7HFFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000163153346-48ckm2uf7h70hmgn74kg1gq02sval158.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

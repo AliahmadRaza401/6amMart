@@ -1,0 +1,23 @@
+{
+    "name": "6amMart",
+    "short_name": "6amMart",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A9849",
+    "theme_color": "#2A9849",
+    "description": "A Multi-vendor Food. Grocery, eCommerce, Pharmacy & Parcel service.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

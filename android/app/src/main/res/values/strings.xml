@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">6amMart</string>
+    <string name="facebook_app_id">452131619626499</string>
+    <string name="fb_login_protocol_scheme">fb452131619626499</string>
+</resources>
